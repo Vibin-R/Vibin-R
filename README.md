@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 My Portfolio [https://portfolio-website-8f639.web.app/](https:/portfolio-website-8f639.web.app/)
+- 👨‍💻 My Portfolio [https://portfolio-website-8f639.web.app/](https://portfolio-website-8f639.web.app/)
 
 - 📝 I regularly write articles on [https://vibinblogs.hashnode.dev/](https://vibinblogs.hashnode.dev/)
 
