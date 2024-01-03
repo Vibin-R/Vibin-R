@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg)](https://rishavchanda.io)
+[![MasterHead](images/Banner.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vibin-R</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
