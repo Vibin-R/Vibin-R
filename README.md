@@ -1,5 +1,5 @@
 
-[![MasterHead](images/Banner2.png)](https://rishavchanda.io)
+[![MasterHead](images/banner3.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vibin R</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
